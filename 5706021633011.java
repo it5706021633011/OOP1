@@ -2,7 +2,7 @@ package oop;
 import java.util.Scanner;
 import java.lang.*;
 
-public class Trik {
+public class OOP1 {
 	public static void main(String[] args) {
 		String st;
 		int A = 1;
