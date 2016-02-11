@@ -1,6 +1,6 @@
 package oop ;
 import java.util.Scanner;
-public class Dwarves {
+public class OOP3 {
 	public static void main(String[] args) {
 		int n1, n2, n3, n4, n5, n6, n7, n8, n9;
 		int count=0;
